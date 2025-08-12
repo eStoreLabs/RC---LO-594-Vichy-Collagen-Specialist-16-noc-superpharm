@@ -552,7 +552,7 @@
   #es-rc-content
   .es-faq
   .es-accordion
-  .acc-tab.active
+  .es-acc-tab.es-acc-active
   > .es-accordion__acc-tab {
   top: 10%;
   transform: rotate(180deg);
@@ -1638,3 +1638,4 @@
     position: relative;
   }
 }
+
